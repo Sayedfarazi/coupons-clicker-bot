@@ -76,5 +76,5 @@ This script automates the process of logging into the BJ's website and clipping 
 This script is intended for educational use only. Automating interactions with websites may violate their terms of service. **The author assumes no responsibility for misuse of this code.**
 
 
-
+---
 ### [License](LICENSE)
