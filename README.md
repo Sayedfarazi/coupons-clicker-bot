@@ -66,12 +66,15 @@ This script automates the process of logging into the BJ's website and clipping 
 - The script uses `undetected-chromedriver` to reduce the chances of bot detection.
 - The script is intentionally slowed down to mimic human engagement and reduce stress on servers.
 
+
+## Automate Coupon Clipping with Docker
+<ins>Part 2: [Dockerized-Coupons-Bot](https://github.com/Sayedfarazi/Dockerized-Coupons-Bot)</ins> <sub><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16"></sub>
+ introduces a Flask API solution running on Docker, enabling the bot to run via scheduled cron jobs or be triggered externally through an API request.
+
 ## Disclaimer
 
 This script is intended for educational use only. Automating interactions with websites may violate their terms of service. **The author assumes no responsibility for misuse of this code.**
 
 
 
-##### License: 
-
-[MIT License](LICENSE)
+### [License](LICENSE)
